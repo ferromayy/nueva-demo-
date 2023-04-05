@@ -1,1 +1,2 @@
 const hola = [1, 2, 2, 3];
+const bombon = 1;
